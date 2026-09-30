@@ -1,4 +1,4 @@
-# wacrm — CRM Template for WhatsApp
+# DRAX — CRM Template for WhatsApp
 
 > Self-hostable CRM for WhatsApp® — shared inbox, contacts,
 > sales pipelines, broadcasts, and no-code automations.
@@ -44,10 +44,10 @@ This project is built with modern, production-ready technologies:
 ## Quick Start
 
 ```bash
-git clone https://github.com/parthkavad54/WACRM.git
-cd WACRM
+git clone https://github.com/harjhonnomenjanaharykoloina/Ecommerce.git
+cd DRAX
 npm install
-cp .env.local.example .env.local   # fill in Supabase + Meta credentials
+cp .env.local.example .env.local   
 npm run dev
 ```
 
@@ -67,7 +67,4 @@ This is a personal project and not currently accepting contributions. See [CONTR
 ## License
 
 [MIT](./LICENSE).
-# Ecommerce
-# Ecommerce
-# Ecommerce
-# Ecommerce
+
